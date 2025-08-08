@@ -4,7 +4,7 @@
 
 <br>
 
-<h1 align="center">⚡ Technologies</h1>
+<h2 align="center">⚡ Tech</h2>
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
