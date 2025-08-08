@@ -4,7 +4,8 @@
 
 <br>
 
-## ⚡ Technologies
+<h1 align="center">⚡ Technologies</h1>
+
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
@@ -19,4 +20,4 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
-🥹![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jshmslf) 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jshmslf) 
