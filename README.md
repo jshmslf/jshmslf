@@ -24,7 +24,8 @@
 </div>
 
 <h2>Currently Learning . . .</h2>
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+
+![Gp](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Shadcn/UI](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff&style=for-the-badge)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jshmslf) 
