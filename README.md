@@ -1,6 +1,4 @@
-<h1 align="left">:wave: Hello! I'm Joshua</h1>
-
-<p font-style="mono"> 🚧 developing </p>
+<h1 align="left">:wave: Hello! I'm Joshua        <p font-family="monospace"> 🚧 developing </p> </h1>
 
 - :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/jshmslf/)**
 
@@ -23,11 +21,14 @@
     height="50"> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
     alt="Tailwindcss" width="50" height="50"> &nbsp;
+<img src="/assets/shadcnui.png"
+    alt="Shadcn/UI" width="50" height="50"> &nbsp;
 </div>
 
-<h2>Currently Learning . . .</h2>
+<h2>📖 Currently interested in . . .</h2>
 
-![Gp](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Shadcn/UI](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff&style=for-the-badge)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jshmslf) 
