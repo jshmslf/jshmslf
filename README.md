@@ -1,5 +1,7 @@
 <h1 align="left">:wave: Hello! I'm Joshua</h1>
 
+<p font-style="mono"> 🚧 developing </p>
+
 - :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/jshmslf/)**
 
 <br>
